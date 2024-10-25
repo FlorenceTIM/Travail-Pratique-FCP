@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ModernArchViz_SeaView/SeaViewArchViz/Scenes/Toilette.unity
+    guid: 6769859744a292d4d88d3dca7a6f76e4
+  - enabled: 1
+    path: Assets/ModernArchViz_SeaView/SeaViewArchViz/Scenes/Chambre.unity
+    guid: 9d46176306dfa37469cb9fc45794b0eb
+  - enabled: 1
+    path: Assets/ModernArchViz_SeaView/SeaViewArchViz/Scenes/Bureau.unity
+    guid: b34562a5a47f1ee45a3148963460d36c
   m_configObjects: {}
